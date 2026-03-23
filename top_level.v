@@ -4,7 +4,8 @@ module top_level (
 	// Clock
 		
 	// Keys
-		
+//polling task has been fixed
+	input CLOCK_5	
 	// Leds
 	
 	// Switches
